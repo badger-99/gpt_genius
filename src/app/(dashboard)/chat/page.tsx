@@ -1,9 +1,7 @@
-import React from 'react'
-
-const ChatPage = () => {
+const page = () => {
   return (
-    <div>ChatPage</div>
+    <div>page</div>
   )
 }
 
-export default ChatPage
+export default page
