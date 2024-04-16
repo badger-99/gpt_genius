@@ -1,7 +1,12 @@
-const page = () => {
+import Chat from "@/app/components/Chat"
+
+
+const ChatPage = () => {
   return (
-    <div>page</div>
+    <>
+      <Chat />
+    </>
   )
 }
 
-export default page
+export default ChatPage
